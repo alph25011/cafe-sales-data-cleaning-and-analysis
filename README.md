@@ -1,22 +1,46 @@
 # cafe-sales-data-cleaning-and--analysis
-Data cleaning and exploratory analysis of a café sales dataset using Python (Pandas). Includes handling missing values, data transformation, and business insights.
 
--------------------------Overview--------------------------
+Data cleaning and exploratory analysis of a café sales dataset using Python (Pandas & Matplotlib).
+Includes handling missing values, data transformation, and deriving meaningful business insights.
 
-This project focuses on cleaning a messy café sales dataset and derive logical insights from it .
 
-----------------------Cleaning Steps-----------------------
+------------------------- Overview --------------------------
+
+This project focuses on cleaning a messy café sales dataset and performing exploratory data analysis (EDA) to extract actionable insights about sales trends, product performance, and customer behavior.
+
+---
+
+## ---------------------- Cleaning Steps -----------------------
 
 * Removed missing values (NaN)
 * Standardized column names
 * Mapped item categories
-* Cleaned numerical columns (price, quantity)
+* Cleaned and formatted numerical columns (price, quantity)
 
- -----------------------Tools Used-------------------------
+
+
+---------------------- Analysis & Visualizations -----------------------
+
+* 📉 Monthly revenue trend (Line Chart)
+* 🥧 Revenue contribution by item (Pie Chart)
+* 📊 Quantity vs Revenue comparison (Bar Charts)
+* 📉 Distribution of order values (Histogram)
+
+
+----------------------- Tools Used -------------------------
+
 * **Python**
 * **Pandas**
+* **Matplotlib**
 * **Jupyter Notebook**
 
--------------------------Outcome---------------------------
 
-The dataset is now clean and ready for analysis.
+ ------------------------- Outcome ---------------------------
+
+The dataset has been successfully cleaned and analyzed.
+The project provides clear insights into sales patterns and customer purchasing behavior, making it useful for business decision-making.
+
+
+
+
+
